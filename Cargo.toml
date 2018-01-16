@@ -1,0 +1,8 @@
+[package]
+name = "n2k-messages"
+description="Generated decoders/encoders for n2k messages. "
+homepage="http://github.com/navalanche/n2k-messages"
+repository="https://github.com/navalanche/n2k-messages"
+license="AGPL-3.0"
+version = "0.1.0"
+authors = ["Erwin Gribnau <erwin@gribnau.org>"]
