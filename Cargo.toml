@@ -6,3 +6,7 @@ repository="https://github.com/navalanche/n2k-messages"
 license="AGPL-3.0"
 version = "0.1.0"
 authors = ["Erwin Gribnau <erwin@gribnau.org>"]
+
+[dependencies]
+n2k-base= { path="../n2k-base", version="0.2.2"}
+log = { version="0.4", default-features= false}
